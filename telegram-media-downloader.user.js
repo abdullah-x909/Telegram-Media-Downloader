@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Telegram Media Downloader
-// @version      3.5.1
+// @version      3.5.2
 // @namespace    https://github.com/abdullah-x909/Telegram-Media-Downloader
 // @description  Download images, videos, GIFs, voice messages, stories, and profile photos from Telegram Web (supports restricted channels when stream URLs are available)
 // @match        https://web.telegram.org/*
@@ -8,6 +8,9 @@
 // @match        https://webz.telegram.org/*
 // @grant        unsafeWindow
 // @author       abdullah-x909
+// @updateURL    https://github.com/abdullah-x909/Telegram-Media-Downloader/main/telegram-media-downloader.user.js
+// @downloadURL  https://github.com/abdullah-x909/Telegram-Media-Downloader/telegram-media-downloader/main/telegram-media-downloader.user.js
+
 // ==/UserScript==
 
 (function () {
