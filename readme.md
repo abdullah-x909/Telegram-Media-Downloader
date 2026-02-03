@@ -39,7 +39,7 @@ Important: This userscript does NOT bypass end-to-end encryption, DRM, or grant 
    - Violentmonkey (Chrome/Firefox/Edge/Opera) — https://violentmonkey.github.io/
 
 2. Install the script:
-   - [Click to install](https://github.com/abdullah-x909/Telegram-Media-Downloader/main/telegram-media-downloader.user.js)
+   - [Click to install](https://github.com/abdullah-x909/Telegram-Media-Downloader/raw/refs/heads/main/telegram-media-downloader.user.js)
 
 3. Confirm installation in your userscript manager.
 
